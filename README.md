@@ -4,9 +4,10 @@
 
 ## Features
 
-- **Custom Sprites**: Made by via nin10kit https://github.com/TricksterGuy/nin10kit/raw/master/readme.pdf
+- **Custom Sprites**: Made via nin10kit https://github.com/TricksterGuy/nin10kit/raw/master/readme.pdf
+- **Moving Sprite**: There is a moving sprite in the title screen.
 - **Simple Controls**: Move your character using the GBA's directional pad. Use Up, Down, Left, and Right for navigation.
-- **Timer Mechanism**: Each attempt is timed. 
+- **Timer Mechanism**: Each attempt is timed.
 - **High Score Tracking**: Your fastest escape times are saved as high scores.
 
 ## How to Play
