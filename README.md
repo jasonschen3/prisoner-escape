@@ -14,3 +14,10 @@
 
 Navigate through the prison without being caught by the guards in less than 60 seconds.
 
+## Run
+
+- Download the GBA Emulator
+- Navigate to this folder
+- Open Docker and run $./cs2110docker-gba.sh
+- $cd to host folder
+- Run the program with the line $make mgba
